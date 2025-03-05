@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/logo.svg" style="width: 25%; height: auto;">
 </p>
-
+related to stanford research.
 # STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking
 
 <p align="center">
