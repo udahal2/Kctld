@@ -19,6 +19,7 @@ build/
 .idea
 .venv
 *environment*
+*pip*
 *return*
 # Project-specific
 secrets.toml
