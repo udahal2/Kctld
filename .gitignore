@@ -18,7 +18,8 @@ build/
 *.egg-info/
 .idea
 .venv
-
+*environment*
+*return*
 # Project-specific
 secrets.toml
 *.log
